@@ -8,8 +8,7 @@ namespace ConsoleApp6
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("novo");
-            Console.WriteLine("Dominik lmao");
-            Console.WriteLine("Dominik lmao");
+            Console.WriteLine("Dominik Misadin");
         }
     }
 }

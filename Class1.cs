@@ -12,5 +12,6 @@ namespace ConsoleApp6
         {
 
         }
+        //mijenjano
     }
 }
