@@ -8,5 +8,6 @@ namespace ConsoleApp6
 {
     class Class1
     {
+        //mijenjano
     }
 }
